@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 07 May 2021 22:27:43 at https://www.180dcberkeley.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.180dcberkeley.com/ -O1 "C:\My Web Sites\dc180" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:28:14	Error: 	"Not Found" (404) at link https://www.180dcberkeley.com/decodeURIComponent(e (from https://www.180dcberkeley.com/)
+22:28:14	Error: 	"Not Found" (404) at link https://www.180dcberkeley.com/https: (from https://www.180dcberkeley.com/)
+22:28:14	Error: 	"Not Found" (404) at link https://www.180dcberkeley.com/feed.xml (from https://www.180dcberkeley.com/)
+22:28:14	Error: 	"Not Found" (404) at link https://www.180dcberkeley.com/version/ (from https://www.180dcberkeley.com/)
+22:29:05	Error: 	"Not Found" (404) at link https://www.180dcberkeley.com/Mallika_edited_edited_edited.jpg (from https://www.180dcberkeley.com/about-us)
+22:29:05	Error: 	"Not Found" (404) at link https://www.180dcberkeley.com/180_indiv-7_edited_edited_edited.jpg (from https://www.180dcberkeley.com/about-us)
+22:29:05	Error: 	"Not Found" (404) at link https://www.180dcberkeley.com/nicole2_edited.jpg (from https://www.180dcberkeley.com/about-us)
+22:29:05	Error: 	"Not Found" (404) at link https://www.180dcberkeley.com/GRID_edited.png (from https://www.180dcberkeley.com/ourservices)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 22 seconds : 165 links scanned, 156 files written (6117641 bytes overall) [2254967 bytes received at 27499 bytes/sec], 5216563 bytes transferred using HTTP compression in 63 files, ratio 23%, 2.7 requests per connection
+(8 errors, 0 warnings, 0 messages)

@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.180dcberkeley.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1620406665|ZVp52dwHtEul
+www.180dcberkeley.com	TRUE	/	FALSE	1999999999	TS01a5e9c4	01f0e931315f0022958ba76eaff4fcd7f16c72825b20ed8bef9c32f24ebc980fbde1f747ba2ceff18f1052a57de5c1136fd92f540d
+.wix.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1620406665|ZVp52dwHtEul
+.wix.com	TRUE	/	FALSE	1999999999	TS01de44c0	01f0e931315f0022958ba76eaff4fcd7f16c72825b20ed8bef9c32f24ebc980fbde1f747ba2ceff18f1052a57de5c1136fd92f540d
+www.180dcberkeley.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42
+www.180dcberkeley.com	TRUE	/	FALSE	1999999999	TS01e85bed	01f0e931315f0022958ba76eaff4fcd7f16c72825b20ed8bef9c32f24ebc980fbde1f747ba2ceff18f1052a57de5c1136fd92f540d
+www.180dcberkeley.com	TRUE	/	FALSE	1999999999	SameSite	none
+
